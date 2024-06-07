@@ -287,3 +287,10 @@ body {
   flex-direction: row;
   justify-content: space-around;
 }
+.social-links {
+  width: 166px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
